@@ -1,4 +1,6 @@
 [![make.fun](https://make.fun/badge/black-friday-deal-finder-01.svg)](https://make.fun/bounty/black-friday-deal-finder-01)
+[![rank](https://make.fun/badge/black-friday-deal-finder-01/Elluddd/black-friday-deal-finder-20261127/rank.svg)](https://make.fun/bounty/black-friday-deal-finder-01)
+[![reward](https://make.fun/badge/black-friday-deal-finder-01/Elluddd/black-friday-deal-finder-20261127/reward.svg)](https://make.fun/bounty/black-friday-deal-finder-01)
 
 # DealHound — Real Black Friday & Cyber Monday Deal Finder 2026
 
